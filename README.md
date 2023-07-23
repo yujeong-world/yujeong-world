@@ -19,7 +19,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/notion-000000.svg?style=flat-square&logo=notion&logoColor=white"/>
-노션 링크 <a href="https://www.notion.so/be4b3773f150401b82d24fe4d445d912">https://www.notion.so/be4b3773f150401b82d24fe4d445d912</a>
+포트폴리오 노션 링크 <a href="https://www.notion.so/be4b3773f150401b82d24fe4d445d912">https://www.notion.so/be4b3773f150401b82d24fe4d445d912</a>
 
 </div>
 <br>
